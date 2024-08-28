@@ -20,7 +20,7 @@
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="android-minSdkVersion" value="27" />
     <preference name="android-targetSdkVersion" value="34" />
-    <preference name="android-compileSdkVersion" value="33" />
+    <preference name="android-compileSdkVersion" value="34" />
     <platform name="android">
         <preference name="AndroidXEnabled" value="true" />
         <resource-file src="google-services.json" target="app/google-services.json" />
